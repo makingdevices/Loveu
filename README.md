@@ -132,7 +132,7 @@ Distributed under three licenses:
 
 Making Devices - [@MakingDevices](https://www.instagram.com/makingdevices/)
 
-Project Link: [https://github.com/makingdevices/OpenReflowPlate](https://github.com/makingdevices/Loveu/)
+Project Link: [https://github.com/makingdevices/Loveu](https://github.com/makingdevices/Loveu/)
 
 Other Links: [LinkTree](https://makingdevices.com/links/)
 
